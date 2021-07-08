@@ -35,7 +35,7 @@ App would crash when single tapping to edit an item, fixed by changing conflicti
 
 ## License
 
-    Copyright [2021] [CodePath]
+    Copyright 2021 Miguel Sablan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
